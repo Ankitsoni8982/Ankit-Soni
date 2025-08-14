@@ -6,6 +6,8 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Heloo Ankit");
 		System.out.println("Heloo jankin");
+		System.out.println("Heloo jankin auto build triggered");
+		
 
 	}
 
